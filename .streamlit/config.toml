@@ -1,6 +1,7 @@
-[server]
-# 指定Python版本
+[global]
 pythonVersion = "3.10"
+
+[server]
 
 [browser]
 gatherUsageStats = false
